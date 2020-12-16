@@ -1,2 +1,2 @@
-# synchronousBallMovement
-changing ball position in the real time to create multiplayer game
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
